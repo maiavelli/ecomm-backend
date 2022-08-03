@@ -3,7 +3,8 @@
 
 A back-end server and database for an ecommerce website. This application uses an Express.js API and Sequelize to interact with a mySQL database to allow you to view, edit, and delete data for management of your e-commerce products. 
 
-## Table of Contents 
+## Table of Contents
+-[Installation](#installation) 
 -[Usage](#usage)
 -[Demo](#demo)
 -[Questions](#questions)
