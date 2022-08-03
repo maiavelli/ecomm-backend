@@ -5,9 +5,13 @@ A back-end server and database for an ecommerce website. This application uses a
 
 ## Table of Contents
 -[Installation](#installation) 
+
 -[Usage](#usage)
+
 -[Demo](#demo)
+
 -[Questions](#questions)
+
 -[License](#License)
 
 ## Installation
